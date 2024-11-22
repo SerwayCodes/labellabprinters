@@ -1,3 +1,7 @@
 # labbellab screen printing
-Website files for Basler Screen Printing's website
+
+Website files for labellab Screen Printing's website
+
 # labellabprinters
+
+# deveveloped by Synet Maonekedwe.
